@@ -1,0 +1,5 @@
+names:
+- coc
+nc: 1
+train: C:/Users/Admin/source/repos/hinh/hinh\images/train
+val: C:/Users/Admin/source/repos/hinh/hinh\images/val

@@ -1,0 +1,5 @@
+classes = 1
+train = C:/Users/Admin/source/repos/hinh/hinh/train\train.txt
+valid = C:/Users/Admin/source/repos/hinh/hinh/train\test.txt
+names = C:/Users/Admin/source/repos/hinh/hinh/train\obj.names
+backup = backup/
